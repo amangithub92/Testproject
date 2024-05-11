@@ -1,0 +1,2 @@
+this is file 1 
+i want to push this file to git hub 
